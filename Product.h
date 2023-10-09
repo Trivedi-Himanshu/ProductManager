@@ -9,7 +9,7 @@ class Product
 	  string description;
 	  double unitPrice;
 	  string title;
-	  
+
 		
 	protected:
 		int getId();
